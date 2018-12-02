@@ -31,7 +31,9 @@ aside {
     float: right;
     background: #ebebeb;
     width: 470px;
-    height: 267px;
+    height: 247px;
+    padding-top: 20px;
+/* I know it's not a good idea to hardcode the dimensions, but I wasn't sure how else to fill the container without using flex. I'd love your input on that! */
 }
 
 article {
